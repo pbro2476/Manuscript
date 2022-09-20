@@ -131,6 +131,6 @@ each source).  Each reference should follow specific APA guidelines
 regarding author names, dates, article titles, journal titles, journal
 volume numbers, page numbers, book publishers, publisher locations,
 websites, and so on (for more information, please see the Citing References
-in APA Style page of this website).
+in APA Style page of this website). And how.
 
 \end{document}
